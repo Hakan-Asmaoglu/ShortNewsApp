@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio or your preferred IDE.
-3. Build and run the project on an Android device or emulator.
+3. Build (J17 API34) and run the project on an Android device or emulator.
 
 ## Dependencies
 
