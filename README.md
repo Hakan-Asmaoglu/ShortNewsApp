@@ -39,6 +39,8 @@ To get started with the project, follow these steps:
 ## Screenshots
 
 <img width="356" alt="image" src="https://github.com/Hakan-Asmaoglu/ShortNewsApp/assets/114767811/c8c4dd0b-4228-402a-83a4-520383a026aa">
+<img width="350" alt="image" src="https://github.com/Hakan-Asmaoglu/ShortNewsApp/assets/114767811/66aa5ed3-cba9-4d5f-aa70-2b790816d8db">
+
 
 
 ## License
