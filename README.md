@@ -34,7 +34,6 @@ To get started with the project, follow these steps:
 - Kotlin Coroutines
 - Dagger-HILT
 - Retrofit
-- etc. (add other dependencies as needed)
 
 ## License
 
