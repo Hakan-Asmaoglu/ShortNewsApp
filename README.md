@@ -35,6 +35,11 @@ To get started with the project, follow these steps:
 - Dagger-HILT
 - Retrofit
 
+
+## Screenshots
+
+![Project Logo](https://github.com/yourusername/yourrepository/raw/main/image.jpg)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
