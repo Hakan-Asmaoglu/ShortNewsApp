@@ -38,7 +38,8 @@ To get started with the project, follow these steps:
 
 ## Screenshots
 
-![Project Logo](https://github.com/yourusername/yourrepository/raw/main/image.jpg)
+<img width="356" alt="image" src="https://github.com/Hakan-Asmaoglu/ShortNewsApp/assets/114767811/c8c4dd0b-4228-402a-83a4-520383a026aa">
+
 
 ## License
 
