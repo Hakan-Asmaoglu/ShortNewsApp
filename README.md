@@ -41,6 +41,8 @@ To get started with the project, follow these steps:
 <img width="356" alt="image" src="https://github.com/Hakan-Asmaoglu/ShortNewsApp/assets/114767811/c8c4dd0b-4228-402a-83a4-520383a026aa">
 <img width="350" alt="image" src="https://github.com/Hakan-Asmaoglu/ShortNewsApp/assets/114767811/66aa5ed3-cba9-4d5f-aa70-2b790816d8db">
 <img width="345" alt="image" src="https://github.com/Hakan-Asmaoglu/ShortNewsApp/assets/114767811/e31ca3e6-a405-4f41-959c-f835c8351ee3">
+<img width="344" alt="image" src="https://github.com/Hakan-Asmaoglu/ShortNewsApp/assets/114767811/63d6b6cf-622a-4fc7-9a7e-11b1fa536e67">
+
 
 
 
