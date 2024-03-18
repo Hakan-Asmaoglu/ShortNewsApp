@@ -72,6 +72,7 @@ dependencies {
     implementation(Dependencies.hiltNavigationCompose)
 
     implementation(Dependencies.retrofit)
+    implementation(Dependencies.gsonConverter)
     implementation(Dependencies.okhttp)
     implementation(Dependencies.moshi)
     implementation(Dependencies.moshiConverter)
@@ -79,6 +80,9 @@ dependencies {
 
     implementation(Dependencies.coroutinesCore)
     implementation(Dependencies.coroutinesAndroid)
+
+    implementation(Dependencies.splashScreen)
+    implementation(Dependencies.coil)
 }
 
 kapt {

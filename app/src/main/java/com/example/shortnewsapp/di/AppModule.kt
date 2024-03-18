@@ -1,10 +1,10 @@
 package com.example.shortnewsapp.com.example.shortnewsapp.di
 
-import com.example.shortnewsapp.com.example.shortnewsapp.ui.repository.NewsRepository
 import com.example.shortnewsapp.com.example.shortnewsapp.data.AppConstants
 import com.example.shortnewsapp.com.example.shortnewsapp.data.api.ApiService
 import com.example.shortnewsapp.com.example.shortnewsapp.data.datasource.NewsDataSource
 import com.example.shortnewsapp.com.example.shortnewsapp.data.datasource.NewsDataSourceImpl
+import com.example.shortnewsapp.com.example.shortnewsapp.ui.repository.NewsRepository
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import dagger.Module
@@ -22,7 +22,6 @@ import javax.inject.Singleton
 @Module
 @InstallIn(SingletonComponent::class)
 class AppModule {
-
 
     @Provides
     @Singleton
