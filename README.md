@@ -4,13 +4,14 @@ Made for the course Mobile Programming with Native Technologies as Final task
 
 This project is an Android application that utilizes Jetpack Compose for UI development, follows a layered architecture combining UI, Data, and Dependency Injection (DI) layers, employs MVVM architecture with a modular approach, uses Coroutines & Flow for asynchronous programming, integrates Dagger-HILT for dependency injection, Retrofit for API calls, manages app state effectively, and incorporates custom Composable creation for UI elements. 
 
-For imgs, coil is also used. Below you can see the screenshots of the app
 
 API from https://newsapi.org/.
 
 ## Features
 
 - **Jetpack Compose for UI:** Utilizes Jetpack Compose for building the user interface, enabling a modern and declarative approach to UI development.
+
+- **Coil:** A lightweight, modern image loading library for Android applications, offering seamless integration and efficient image loading from various sources.
 
 - **UI + DATA + DI Layers:** Organizes the project into separate layers for UI, Data, and Dependency Injection, facilitating a clear separation of concerns and better maintainability.
 
