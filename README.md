@@ -4,6 +4,9 @@ Made for the course Mobile Programming with Native Technologies as Final task
 
 This project is an Android application that utilizes Jetpack Compose for UI development, follows a layered architecture combining UI, Data, and Dependency Injection (DI) layers, employs MVVM architecture with a modular approach, uses Coroutines & Flow for asynchronous programming, integrates Dagger-HILT for dependency injection, Retrofit for API calls, manages app state effectively, and incorporates custom Composable creation for UI elements. 
 
+For imgs, coil is also used.
+![image](https://github.com/Hakan-Asmaoglu/ShortNewsApp/assets/114767811/12b7d016-228e-4b1c-ba56-ea9f29bebdab)
+
 API from https://newsapi.org/.
 
 ## Features
